@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about_me/
+permalink: /about/
 ---
 
 Name: Knut Solvig
