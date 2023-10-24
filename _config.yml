@@ -12,7 +12,7 @@ author: Knut Solvig
 description: A blog by Knut Solvig writing about my academic experiences.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: https://avatars.githubusercontent.com/knutsolvig
 
 #
 # Flags below are optional
@@ -24,12 +24,12 @@ footer-links:
   email: knutsolvig@gmail.com
   facebook:
   flickr:
-  github: amitmerchant1990/reverie
+  github: https://github.com/KnutSolvig
   instagram:
-  linkedin: 
+  linkedin: www.linkedin.com/in/knut-solvig-155182225
   pinterest:
-  rss: rss
-  twitter: amit_merchant
+  rss: 
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics:
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
