@@ -3,7 +3,6 @@ layout: post
 title: PSA24 in Glasgow
 categories: [blog, PSA, research ]
 ---
-# The Conference
 
 The Political Studies Association hosted their annual conference last week in Glasgow, Scotland. It is a conference packed with panels where researchers may present their research in specialist groups.
 
