@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /resume/
 ---
 
-[Click here for my CV (Norwegian)](https://drive.google.com/file/d/1o1NISjazrHSh12OP1FFg6dTZd6EGbSBf/view?usp=drive_link)
+[Click here for my CV (Norwegian)](https://drive.google.com/file/d/1KwBKTFPT7gIirGezrVMYjWH76AzicBbT/view?usp=sharing)
