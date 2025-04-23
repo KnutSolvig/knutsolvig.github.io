@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: knutsolvig@gmail.com
+  phone: 45918284
+  timezone: Europa/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://knutsolvig.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: knut-solvig
+  xing: 
+  github: KnutSolvig
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,31 +35,32 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Språk
     info:
-    - idiom: English
-      level: Native
+    - idiom: Engelsk
+      level: Flytende
 
-    - idiom: French
-      level: Professional
+    - idiom: Norsk
+      level: Morsmål
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Spansk
+      level: A1
 
   interests:
-    title: Interests
+    title: Interesser
     info:
-    - item: Climbing
+    - item: Løping
       link:
 
 
-    - item: Snowboarding
+    - item: Formel 1
       link:
 
 
-    - item: Cooking
+    - item: Ishockey
       link:
 
+    - item: Friluftsliv
 
 career-profile:
   title: Career Profile
