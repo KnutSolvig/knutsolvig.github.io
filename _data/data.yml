@@ -65,26 +65,22 @@ sidebar:
 career-profile:
   title: Karriereprofil
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Jeg er opprinnelig fra Kopervik på Karmøy og gikk etter videregående på Folkehøgskole. Der ble jeg enda mer giret på det å studere videre og bli kjent med enda flere spennende folk. Jeg har fullført en bachelorgrad i Statsvitenskap og tar nå en mastergrad i Digitale Samfunn ved UiS. I løpet av min studietid har jeg vært svært engasjert i universitetsstyret og nå som nestleder i StOr.
 education:
-  title: Education
+  title: Utdanning
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Master i Digitale Samfunn og Sosiale Transformasjoner
+    university: Universitetet i Stavanger
+    time: 2023 - d.d.
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Masterstudie i samfunnsvitenskap som fokuserer på hvordan teknologi påvirker samfunnet vårt og ikke minst hvordan diverse teknologier fungerer.
+        - MEE125 - Philosophy of Science and Research
+        - DIG504 - Digital Culture and Everyday Life
+        - DIG501 - Media, Data and Society
+        - DIG502 - The Digitalization of Politics
+        - DIG503 - Technological Foundations
+        - MEN185 - Applied Social Science Research
+
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
