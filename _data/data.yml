@@ -104,89 +104,55 @@ education:
         - BSTBAC - Bacheloroppgave
 
 experiences:
-  title: Experiences
+  title: Erfaring
   info:
-  - role: Lead Developer
+  - role: xx
     time: 2015 - Present
-    company: Startup Hubs, San Francisco
+    company: xx
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      xx
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
+  - role: xx
     time: 2014 - 2015
-    company: Google, London
+    company: xx
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      x
         - Bullet point
         - Bullet point
-  - role: UI Developer
+  - role: xx
     time: 2012 - 2014
-    company: Amazon, London
+    company: xx
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      xx
         - Bullet point
         - Bullet point
 
 certifications:
-  title: Certifications
+  title: Sertifiseringer
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Learn Python 3
+    start: 2023
+    end: 2024
+    organization: Codecademy
+    credentialid: 
+    credentialurl: https://www.codecademy.com/profiles/method3359181747/certificates/6c152bd262967f8c941c9707ed636bda
+    credentialname: Bevis på gjennomført kurs i Python 3 (programmeringsspråk)
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Har brukt fritid på å lære programmering på egenhånd.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - name: Foredragsholder på Political Studies Association 2024
+    start: 2024
+    end: 2024
+    organization: PSA
+    credentialid: 
+    credentialurl: https://www.linkedin.com/in/knut-solvig-155182225/overlay/1712130526566/single-media-viewer?type=DOCUMENT&profileId=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0
+    credentialname: Bevis på foredragsholder
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space"
 
 projects:
-  title: Projects
+  title: Prosjekter
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -228,26 +194,24 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Publikasjoner
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    xx
   papers:
-  - title: The Art of Computer Programming
+  - title: "xx"
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: xx
+    conference: "xxx"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: "xxx"
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: xxxx
+    conference: "xxx"
 
-  - title: A syntax directed compiler for Algol 60
+  - title: xxx
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: xxx
+    conference: "xx"
 
 recommendations:
   title: Recommendations
@@ -290,4 +254,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Curriculum vitae - Knut Solvig
