@@ -280,6 +280,9 @@ projects:
   - title: Frivillig i DNB Arena
     tagline: "2023 - d.d."
 
+  - title: Styremedlem i Velferdstinget i Stavanger
+    tagline: "2021 - d.d."
+
   - title: Studentrepresentant i komitee for merritert underviser
     tagline: "2025"
 
@@ -304,9 +307,6 @@ projects:
   - title: Studentrepresentant i Studieprogramrådet for Bachelor i Statsvitenskap
     tagline: "2021 - 2022"
 
-  - title: Styremedlem i Velferdstinget i Stavanger
-    tagline: "2021 - d.d."
-
   - title: Emnetillitsvalgt i de fleste emner på bacheloren
     tagline: "2020 - 2023"
 
@@ -321,17 +321,40 @@ oss:
   intro: >
     Nedenfor er mine offentlige fremtredelser og foredrag. Det kan være alt fra foredrag, taler og medieoppslag.
   contributions:
-  - title: xx
-    link: "#"
-    tagline: "xxx"
 
-  - title: xxx
-    link: "#"
-    tagline: "xxx"
+  - title: NRK Rogaland sak i Distriktsnyhetene - 11/04/25
+    link: "www.linkedin.com/posts/knut-solvig-155182225_sak-i-nrk-i-dag-om-at-flere-studenter-activity-7316553019968397313-ceCx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0"
+    tagline: "Studio reportasje hos NRK Rogaland om inntektsgrenser og studiestøtte"  
 
-  - title: xx
+  - title: Fremtiden for pensum- og fagboken - 21/03/25
+    tagline: "Panelsamtale i anledning åpning av ny Akademika butikk på Campus Ullandhaug. Deltok som studentrepresentant sammen med diverse daglig ledere i forlag."
+
+  - title: Media: Aftenbladet sak om studenter i boligkø - 03/07/24
+    link: "www.aftenbladet.no/lokalt/i/rPl8vw/rekordmange-i-koe-for-aa-faa-studentbolig-i-aar"
+    tagline: "Sak i Stavanger Aftenblad om rekordmange studenter i boligkø i 2024."
+
+  - title: Media: Aftenbladet sak om innsigelse fra Statsforvalteren - 03/07/24
+    link: "www.aftenbladet.no/lokalt/i/gw6l6a/nye-studentboliger-staten-krever-mer-sykkel"
+    tagline: "Sak i Stavanger Aftenblad om innsigelse fra Statsforvalteren om at nye studentboliger må ha flere sykkelparkeringer."
+
+  - title: Media: NRK sak om UiS og Israel - 06/06/24
+    link: "www.nrk.no/rogaland/universitetet-i-stavanger-kutter-alle-band-til-israel-1.16914887"
+    tagline: "NRK sak mens jeg var studentrepresentant i universitetsstyret der jeg og min medrepresentant fikk gjennom å avslutte alle avtaler med Israel."
+
+  - title: Hva sier studentene? - 23/04/24
+    tagline: "20 minutters foredrag om hva studentene verdsetter i undervisningen og generelt på UiS. Avholdt under studieprogramlederkurset 2024."
+
+  - title: UiS Styret sin rolle på UiS - 14/11/23
     link: "#"
-    tagline: "xxx"
+    tagline: "Presenterte universitetsstyret og lokal studentpolitikk på Engasjertmøtet (møte med alle studentstyremedlemmer på UiS)"
+
+  - title: Media: Aftenbladet sak elsparkesykler - 17/07/23
+    link: "www.aftenbladet.no/lokalt/i/9zWJ9E/er-det-egentlig-fritt-frem-for-elsparkesyklene"
+    tagline: "Sak i Stavanger Aftenblad om parkering av elsparkesykler mens jeg jobber i Nivel."
+
+  - title: Media: Aftenbladet sak om asbestfunn på Universitetsbiblioteket - 24/11/22
+    link: "www.aftenbladet.no/lokalt/i/y6l5oE/biblioteket-paa-uis-stengt-paa-grunn-av-asbest-mistanke"
+    tagline: "Sak i Stavanger Aftenblad om hvordan jeg måtte evakuere fra biblioteket etter funn av asbest."
 
 publications:
   title: Publikasjoner
