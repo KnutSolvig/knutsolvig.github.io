@@ -18,7 +18,7 @@ sidebar:
   timezone: Europa/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://knutsolvig.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: knut-solvig
+  linkedin: knut-solvig-155182225
   xing: 
   github: KnutSolvig
   telegram: # add your nickname without '@' sign
@@ -37,11 +37,11 @@ sidebar:
   languages:
     title: Språk
     info:
-    - idiom: Engelsk
-      level: Flytende
-
     - idiom: Norsk
       level: Morsmål
+
+    - idiom: Engelsk
+      level: Flytende
 
     - idiom: Spansk
       level: A1
@@ -73,7 +73,7 @@ education:
     time: 2023 - d.d.
     details: |
       Masterstudie i samfunnsvitenskap som fokuserer på hvordan teknologi påvirker samfunnet vårt og ikke minst hvordan diverse teknologier fungerer.
-        - MEE125 - Philosophy of Science and Research
+        - MEE125 - Philosophy of Science and Research ✅
         - DIG504 - Digital Culture and Everyday Life
         - DIG501 - Media, Data and Society
         - DIG502 - The Digitalization of Politics
