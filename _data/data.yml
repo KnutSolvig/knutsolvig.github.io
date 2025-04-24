@@ -106,27 +106,54 @@ education:
 experiences:
   title: Erfaring
   info:
+  - role: Nestleder
+    time: 2024 - d.d.
+    company: Studentorganisasjonen ved UiS (StOr)
+    details: |
+      Nestleder i Studentorganisasjonen ved UiS (StOr) innebærer blant annet ansvar for kommunikasjon og studentvalget. I tillegg er jeg leders stedfortreder om det skulle være nødvendig. StOr jobber for at studentenes rettigheter blir overholdt og at studentene blir hørt over hele institusjonen. StOr består av fire studenter som tar permisjon fra studiene for å jobbe fulltid for studentene og studentparlamentet.
+        - Lederskap
+        - Kommunikasjon
+        - Personlig utvikling
+  - role: Styreleder
+    time: 2023 - 2025
+    company: Linjeforeningen for Digital Society (DigSoc)
+    details: |
+      Grunnlegger og styreleder av linjeforeningen på masterprogrammet.
+        - Lederskap
+        - Styrearbeid
+        - Engasjement
+  - role: Husvert
+    time: 2021 - 2025
+    company: Studentsamskipnaden i Stavanger (SiS)
+    details: |
+      Som husvert tilrettelegger man for et godt bomiljø blant studentene som bor i studentboligen. Jeg var husvert i SiS Rennebergstien og hadde ansvaret for hundretalls boliger og oppfølging av vasking av felles arealer, blant annet.
+ 
+  - role: Vaktmester
+    time: 2023 - 2023
+    company: Studentsamskipnaden i Stavanger
+    details: |
+      Sommervikar som vaktmester i SiS Bolig. Sjekking utvask av studentboliger, rydding, feilsøking av sluk, vask og annet teknisk utstyr, osv.
+        - Fysisk arbeid
+        - Sommervikariat
+        - Problemløsning
+
+  - role: Styremedlem i Universitetsstyret
+    time: 2023 - 2024
+    company: Universitetet i Stavanger
+    details: |
+      Styremedlem i Universitetsstyret til Universitetet i Stavanger. Styret er det øverste organet på institusjonen og vedtar blant annet budsjett og retningen for UiS. Ble valgt blant 12 000 studenter for å representere studentenes interesse i styret.
+        - Håndtere stress
+        - Stort ansvar
+        - Styrearbeid
+
   - role: xx
-    time: 2015 - Present
-    company: xx
+    time: 2023 - 2024
+    company: Universitetet i Stavanger
     details: |
       xx
-        - Bullet point
-        - Bullet point
-  - role: xx
-    time: 2014 - 2015
-    company: xx
-    details: |
-      x
-        - Bullet point
-        - Bullet point
-  - role: xx
-    time: 2012 - 2014
-    company: xx
-    details: |
-      xx
-        - Bullet point
-        - Bullet point
+        - xx
+        - xx
+        - xx 
 
 certifications:
   title: Sertifiseringer
@@ -136,8 +163,8 @@ certifications:
     end: 2024
     organization: Codecademy
     credentialid: 
-    credentialurl: https://www.codecademy.com/profiles/method3359181747/certificates/6c152bd262967f8c941c9707ed636bda
-    credentialname: Bevis på gjennomført kurs i Python 3 (programmeringsspråk)
+    credentialurl: www.codecademy.com/profiles/method3359181747/certificates/6c152bd262967f8c941c9707ed636bda
+    credentialname: Kursbevis Learn Python 3
     details: |
       Har brukt fritid på å lære programmering på egenhånd.
 
@@ -146,10 +173,10 @@ certifications:
     end: 2024
     organization: PSA
     credentialid: 
-    credentialurl: https://www.linkedin.com/in/knut-solvig-155182225/overlay/1712130526566/single-media-viewer?type=DOCUMENT&profileId=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0
+    credentialurl: www.linkedin.com/in/knut-solvig-155182225/overlay/1712130526566/single-media-viewer?type=DOCUMENT&profileId=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0
     credentialname: Bevis på foredragsholder
     details: |
-      Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space"
+      Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space".
 
 projects:
   title: Prosjekter
