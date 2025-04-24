@@ -146,14 +146,89 @@ experiences:
         - Stort ansvar
         - Styrearbeid
 
-  - role: xx
+  - role: Teknisk vakt
     time: 2023 - 2024
     company: Universitetet i Stavanger
     details: |
-      xx
-        - xx
-        - xx
-        - xx 
+      Bisto studenter på eksamensdagen med teknisk hjelp - tilkobling til WiFi og annet diverse. feilsøking.
+        - Kommunikasjon
+        - IT-kompetanse
+        - Problemløsning
+
+  - role: Studentassistent på Kodehjørnet
+    time: 2023 - 2024
+    company: Universitetet i Stavanger
+    details: |
+      Hjelper studenter og ansatte med statistikk relaterte spørsmål og oppgaver. Hovedsakelig programmering med "R" og IDE RStudio. Dette var et prøveprosjekt på Institutt for medie- og samfunnsfag på det samfunnsvitenskapelige fakultet på UiS.
+        - Kommunikasjon
+        - IT-kompetanse
+        - Problemløsning
+        - Programmering
+
+  - role: Policy Advisor
+    time: 2021 - 2024
+    company: Nivel Regulator
+    details: |
+      Jobbet som policy advisor for Nivel. Salg for et reguleringsverktøy kalt Nivel Regulator. Nivel hjelper kommuner med å få kontroll over gatene sine ved digital regulering av mikromobilitet (primært delte e-scootere). Min hovedoppgave var å gjennomgå politikk fra kommunene og hjelpe med alle politikkrelaterte spørsmål. Startet i jobben som praksispraktikant.
+        - Salgsarbeid
+        - IT
+        - Praksis
+
+  - role: Valgmedarbeider
+    time: 2023 - 2023
+    company: Stavanger kommune
+    details: |
+      Jobbet under kommune- og fylkesvalget i Norge i 2023. Både i forhåndstemmingsperioden samt valgtinget. Mye variert arbeid med kontakt med andre. Tidvis utfordrende situasjoner der jeg måtte håndtere en del stress.
+        - Stressende situasjoner
+        - Ansvar
+        - Lange og varierte arbeidsdager
+
+  - role: Styreleder
+    time: 2022 - 2023
+    company: UiS Brettspill
+    details: |
+      Jeg startet organisasjonen "UiS Brettspillklubb" ved Universitetet i Stavanger for å bidra til studentmiljøet. UiS Brettspill arrangerer arrangementer hvor studenter kan spille brettspill sammen, samt vedlikeholde et system for utlån av brettspill der hver student i Stavanger kan låne brettspill.
+        - Lederskap
+
+  - role: Studiegruppeleder
+    time: 2021 - 2022
+    company: Universitetet i Stavanger
+    details: |
+      Som studiegruppeleder la jeg til rette for at studenter på sitt første år av bachelorstudiet skal få god anledning til å diskutere pensum og andre relevante ting for å få det beste ut av studiet.
+
+  - role: Valgmedarbeider
+    time: 2021 - 2021
+    company: Stavanger kommune
+    details: |
+      Jeg jobbet som valgmedarbeider, registrerte valgstemmer under stortingsvalget 2021. Telte også stemmene manuelt og ved digital skanning.
+        - Stressende situasjoner
+        - Ansvar
+        - Lange og varierte arbeidsdager
+
+  - role: Sommervikar
+    time: 2020 - 2020
+    company: Norsk Hydro AS
+    details: |
+      Jobbet sommeren 2020 i Norsk Hydro i elektrolysehallen. Varierte skift, både dag, kveld og natt samt 12 timers vakter. Svært psykisk og fysisk tung jobb med verneutstyr og høy varme. Lærte meg her å håndtere mye stress og venting
+        - Stressende situasjoner
+        - Sommervikariat
+        - Skiftarbeid samt nattarbeid
+
+  - role: Fotograf
+    time: 2018 - 2019
+    company: Format UB
+    details: |
+      Ungdomsbedrift på videregående skole i Media- og kommunikasjon. Jobben inneholdt blant annet:
+        - Salg
+        - Fotograf under nasjonalt svømmestevne i Karmøyhallen
+        - Filming under arrangementer som for eksempel First Lego League
+        - Grafisk design
+
+  - role: Avisbud
+    time: 2013 - 2013
+    company: VG - Verdens Gang AS
+    details: |
+      Leverte dagens avis til nabolag i området hver søndags morgen.
 
 certifications:
   title: Sertifiseringer
@@ -179,21 +254,20 @@ certifications:
       Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space".
 
 projects:
-  title: Prosjekter
+  title: Frivillig arbeid
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Nedenfor er listen over diverse frivillig arbeid jeg har tilegnet meg.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Styremedlem i Campus Studentsamfunn (Tappetårnet)
+    tagline: "xxx"
 
   - title: DevStudio
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "xxx"
 
   - title: Tempo
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "xxxx"
 
   - title: Atom
     link: "#"
@@ -281,4 +355,4 @@ skills:
     level: 60%
 
 footer: >
-  Curriculum vitae - Knut Solvig
+  Curriculum Vitae - Knut Solvig
