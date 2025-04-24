@@ -259,29 +259,6 @@ experiences:
     details: |
       Leverte dagens avis til nabolag i området hver søndags morgen.
 
-certifications:
-  title: Sertifiseringer
-  list:
-  - name: Learn Python 3
-    start: 2023
-    end: 2024
-    organization: Codecademy
-    credentialid: 
-    credentialurl: www.codecademy.com/profiles/method3359181747/certificates/6c152bd262967f8c941c9707ed636bda
-    credentialname: Kursbevis Learn Python 3
-    details: |
-      Har brukt fritid på å lære programmering på egenhånd.
-
-  - name: Foredragsholder på Political Studies Association 2024
-    start: 2024
-    end: 2024
-    organization: PSA
-    credentialid: 
-    credentialurl: www.linkedin.com/in/knut-solvig-155182225/overlay/1712130526566/single-media-viewer?type=DOCUMENT&profileId=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0
-    credentialname: Bevis på foredragsholder
-    details: |
-      Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space".
-
 projects:
   title: Frivillig arbeid
   intro: >
@@ -383,13 +360,35 @@ publications:
     authors: Solvig, Knut
 
   - title: "The Urban-Rural Divide in Policy Priorities across Time and Space"
-    link: "https://www.researchgate.net/profile/Tevfik-Yildirim/publication/390632822_The_Urban-Rural_Divide_in_Policy_Priorities_across_Time_and_Space/links/67f6e5d19b1c6c487785734f/The-Urban-Rural-Divide-in-Policy-Priorities-across-Time-and-Space.pdf"
+    link: "https://www.researchgate.net/publication/390632822_The_Urban-Rural_Divide_in_Policy_Priorities_across_Time_and_Space"
     authors: Yilidrim, Murat T. & Solvig, Knut
     conference: "Political Studies Association 2024, Glasgow Skottland"
 
+certifications:
+  title: Sertifiseringer
+  list:
+  - name: Learn Python 3
+    start: 2023
+    end: 2024
+    organization: Codecademy
+    credentialid: 
+    credentialurl: www.codecademy.com/profiles/method3359181747/certificates/6c152bd262967f8c941c9707ed636bda
+    credentialname: Kursbevis Learn Python 3
+    details: |
+      Har brukt fritid på å lære programmering på egenhånd.
+
+  - name: Foredragsholder på Political Studies Association 2024
+    start: 2024
+    end: 2024
+    organization: PSA
+    credentialid: 
+    credentialurl: www.linkedin.com/in/knut-solvig-155182225/overlay/1712130526566/single-media-viewer?type=DOCUMENT&profileId=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0
+    credentialname: Bevis på foredragsholder
+    details: |
+      Var i Glasgow for å presentere en artikkel som jeg har skrevet sammen med en professor på instituttet. Artikkelen heter "The Urban-Rural Divide in Policy Priorities across Time and Space".
 
 recommendations:
-  title: Referanser oppgis ved behov.
+  title: Referanser oppgis ved behov
 
 footer: >
   Curriculum Vitae - Knut Solvig
