@@ -259,40 +259,36 @@ projects:
     Nedenfor er listen over diverse frivillig arbeid jeg har tilegnet meg.
   assignments:
   - title: Styremedlem i Campus Studentsamfunn (Tappetårnet)
+    tagline: "2024 - d.d."
+
+  - title: xx
     tagline: "xxx"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "xxx"
-
-  - title: Tempo
-    link: "#"
+  - title: xx
     tagline: "xxxx"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: xx
+    tagline: "xxxx"
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: xx
+    tagline: "xxx"
 
 oss:
-  title: OSS Contributions
+  title: xxx
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    xxx
   contributions:
-  - title: Tempo
+  - title: xx
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "xxx"
 
-  - title: Atom
+  - title: xxx
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "xxx"
 
-  - title: Delta
+  - title: xx
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "xxx"
 
 publications:
   title: Publikasjoner
@@ -314,44 +310,26 @@ publications:
     authors: xxx
     conference: "xx"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: xx
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: xx
     level: 98%
 
-  - name: Angular
+  - name: xx
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: xx
     level: 95%
 
-  - name: Ruby on Rails
+  - name: xx
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: xx
     level: 60%
 
 footer: >
