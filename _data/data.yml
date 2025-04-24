@@ -85,8 +85,8 @@ education:
     university: Universitetet i Stavanger
     time: 2020 - 2023
     details: |
-      Karaktersnitt: B
       Bachelorgrad i starten av koronapandemien i Statsvitenskap. Hadde en rekke verv i løpet av bacheloren.
+        - Karaktersnitt: B
         - SVEXPHIL - Examen philosophicum
         - BST115 - Politisk teori
         - BST120 - Offentlig politikk og administrasjon
@@ -113,8 +113,8 @@ education:
     university: Kopervik Videregående skole
     time: 2016 - 2019
     details: |
-      Karaktersnitt: 4,1
-      Tok medier- og kommunikasjon studiespesialiserende på Kopervik videregående skole. 
+      Tok medier- og kommunikasjon studiespesialiserende på Kopervik videregående skole.
+      - Karaktersnitt: 4,1
 
 experiences:
   title: Erfaring
