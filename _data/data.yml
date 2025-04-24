@@ -18,7 +18,7 @@ sidebar:
   timezone: Europa/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://knutsolvig.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: knut-solvig-155182225
+  linkedin: knutsolvig
   xing: 
   github: KnutSolvig
   telegram: # add your nickname without '@' sign
@@ -28,7 +28,7 @@ sidebar:
   twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  goodreads: knutsolvig # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
@@ -73,13 +73,14 @@ education:
     time: 2023 - d.d.
     details: |
       Masterstudie i samfunnsvitenskap som fokuserer på hvordan teknologi påvirker samfunnet vårt og ikke minst hvordan diverse teknologier fungerer.
+        - DIGMAS - Masteroppgave 🕐
         - MEE125 - Philosophy of Science and Research ✅
-        - DIG504 - Digital Culture and Everyday Life
-        - DIG501 - Media, Data and Society
-        - DIG502 - The Digitalization of Politics
-        - DIG503 - Technological Foundations
-        - MEN185 - Applied Social Science Research
-        - DAT105 - Innføring i kunstig intelligens (KI)
+        - DIG504 - Digital Culture and Everyday Life ✅
+        - DIG501 - Media, Data and Society ✅
+        - DIG502 - The Digitalization of Politics ✅
+        - DIG503 - Technological Foundations ✅
+        - MEN185 - Applied Social Science Research ✅
+        - DAT105 - Innføring i kunstig intelligens (KI) ✅
 
   - degree: Bachelor i Statsvitenskap
     university: Universitetet i Stavanger
@@ -87,21 +88,21 @@ education:
     details: |
       Bachelorgrad i starten av koronapandemien i Statsvitenskap. Hadde en rekke verv i løpet av bacheloren.
         - Karaktersnitt: B
-        - SVEXPHIL - Examen philosophicum
-        - BST115 - Politisk teori
-        - BST120 - Offentlig politikk og administrasjon
-        - BST130 - Internasjonal politikk
-        - BST100 - Makt og politikk
-        - BST290 - Kvantitativ forskningsmetode
-        - BSS120 - Forskningsteori- og metode
-        - BST230 - Kultur og mangfold i politiske prosesser
-        - BST250 - Komparativ politikk
-        - BSS295 - Digital Culture and Society
-        - BYS220 - Kriser og samfunnssikkerhet
-        - BST300 - Velferdsstat- og politikk
-        - BST310 - Organisasjonsteori
-        - BSTPRA - Praksisopphold
-        - BSTBAC - Bacheloroppgave
+        - SVEXPHIL - Examen philosophicum ✅
+        - BST115 - Politisk teori ✅
+        - BST120 - Offentlig politikk og administrasjon ✅
+        - BST130 - Internasjonal politikk ✅
+        - BST100 - Makt og politikk ✅
+        - BST290 - Kvantitativ forskningsmetode ✅
+        - BSS120 - Forskningsteori- og metode ✅
+        - BST230 - Kultur og mangfold i politiske prosesser ✅
+        - BST250 - Komparativ politikk ✅
+        - BSS295 - Digital Culture and Society ✅
+        - BYS220 - Kriser og samfunnssikkerhet ✅
+        - BST300 - Velferdsstat- og politikk ✅
+        - BST310 - Organisasjonsteori ✅
+        - BSTPRA - Praksisopphold ✅
+        - BSTBAC - Bacheloroppgave ✅
 
   - degree: Folkehøgskole
     university: Folkehøgskolen Sørlandet
