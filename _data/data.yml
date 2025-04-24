@@ -183,12 +183,28 @@ experiences:
         - Ansvar
         - Lange og varierte arbeidsdager
 
+  - role: Forskningsassistent
+    time: 2023
+    company: Universitetet i Stavanger
+    details: |
+      Koding av resultater fra Google Search Trends inn i Excel angående popularitet av diverse politikere rundt omkring i verden
+
   - role: Styreleder
     time: 2022 - 2023
     company: UiS Brettspill
     details: |
       Jeg startet organisasjonen "UiS Brettspillklubb" ved Universitetet i Stavanger for å bidra til studentmiljøet. UiS Brettspill arrangerer arrangementer hvor studenter kan spille brettspill sammen, samt vedlikeholde et system for utlån av brettspill der hver student i Stavanger kan låne brettspill.
         - Lederskap
+
+  - role: Studentassistent
+    time: 2021 - 2022
+    company: Universitetet i Stavanger
+    details: |
+      Studentassistent for emnet "BST290 - Kvantitativ forskningsmetode". Her har jeg bistått studentene med å forstå og bruke programmeringsspråket "R" og IDE "RStudio" til å løse statistiske problemstillinger.
+        - Kommunikasjon
+        - IT-kompetanse
+        - Problemløsning
+        - Programmering
 
   - role: Studiegruppeleder
     time: 2021 - 2022
@@ -261,22 +277,49 @@ projects:
   - title: Styremedlem i Campus Studentsamfunn (Tappetårnet)
     tagline: "2024 - d.d."
 
-  - title: xx
-    tagline: "xxx"
+  - title: Frivillig i DNB Arena
+    tagline: "2023 - d.d."
 
-  - title: xx
-    tagline: "xxxx"
+  - title: Studentrepresentant i komitee for merritert underviser
+    tagline: "2025"
 
-  - title: xx
-    tagline: "xxxx"
+  - title: Delegasjonsleder & delegat til landsmøtet til Norsk Studentorganisasjon (NSO)
+    tagline: "2025"
 
-  - title: xx
-    tagline: "xxx"
+  - title: Delegat til landsmøtet til Norsk Studentorganisasjon (NSO)
+    tagline: "2023"
+
+  - title: Studentrepresentant i Fakultetsstyret på Det samfunnsvitenskapelige fakultet, UiS
+    tagline: "2021 - 2022"
+
+  - title: Studentrepresentant i Ansettelsesutvalget ved Det samfunnsvitenskapelige fakultet, UiS
+    tagline: "2021 - 2022"
+
+  - title: Studentrepresentant i Studieporteføljeutvalget ved Det samfunnsvitenskapelige fakultet, UiS
+    tagline: "2021 - 2022"
+
+  - title: Studentrepresentant i Instituttsrådet ved Institutt for medie- og samfunnsfag, UiS
+    tagline: "2021 - 2023"
+
+  - title: Studentrepresentant i Studieprogramrådet for Bachelor i Statsvitenskap
+    tagline: "2021 - 2022"
+
+  - title: Styremedlem i Velferdstinget i Stavanger
+    tagline: "2021 - d.d."
+
+  - title: Emnetillitsvalgt i de fleste emner på bacheloren
+    tagline: "2020 - 2023"
+
+  - title: Medlem i valgkomiteen til Universitetet i Stavanger Idrettslag (UiSI)
+    tagline: "2022"
+
+  - title: Økonomiansvarlig - Krafttak mot Kreft
+    tagline: "2020"
 
 oss:
-  title: xxx
+  title: Formidling og foredrag
   intro: >
-    xxx
+    Nedenfor er mine offentlige fremtredelser og foredrag. Det kan være alt fra foredrag, taler og medieoppslag.
   contributions:
   - title: xx
     link: "#"
@@ -295,20 +338,14 @@ publications:
   intro: |
     xx
   papers:
-  - title: "xx"
-    link: "#"
-    authors: xx
-    conference: "xxx"
+  - title: "Bachelor oppgave: Why do some countries become more welfare chauvinistic even though they get richer?"
+    link: "hdl.handle.net/11250/3082186"
+    authors: Solvig, Knut
 
-  - title: "xxx"
-    link: "#"
-    authors: xxxx
-    conference: "xxx"
-
-  - title: xxx
-    link: "#"
-    authors: xxx
-    conference: "xx"
+  - title: "The Urban-Rural Divide in Policy Priorities across Time and Space"
+    link: "www.researchgate.net/profile/Tevfik-Yildirim/publication/390632822_The_Urban-Rural_Divide_in_Policy_Priorities_across_Time_and_Space/links/67f6e5d19b1c6c487785734f/The-Urban-Rural-Divide-in-Policy-Priorities-across-Time-and-Space.pdf"
+    authors: Yilidrim, Murat T. & Solvig, Knut
+    conference: "Political Studies Association 2024, Glasgow Scottland"
 
 skills:
   title: Skills &amp; Proficiency
