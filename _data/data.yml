@@ -139,20 +139,12 @@ experiences:
         - Lederskap
         - Styrearbeid
         - Engasjement
+  
   - role: Husvert
     time: 2021 - 2025
     company: Studentsamskipnaden i Stavanger (SiS)
     details: |
       Som husvert tilrettelegger man for et godt bomiljø blant studentene som bor i studentboligen. Jeg var husvert i SiS Rennebergstien og hadde ansvaret for hundretalls boliger og oppfølging av vasking av felles arealer, blant annet.
- 
-  - role: Vaktmester
-    time: 2023
-    company: Studentsamskipnaden i Stavanger
-    details: |
-      Sommervikar som vaktmester i SiS Bolig. Sjekking utvask av studentboliger, rydding, feilsøking av sluk, vask og annet teknisk utstyr, osv.
-        - Fysisk arbeid
-        - Sommervikariat
-        - Problemløsning
 
   - role: Styremedlem i Universitetsstyret
     time: 2023 - 2024
@@ -190,6 +182,15 @@ experiences:
         - Salgsarbeid
         - IT
         - Praksis
+ 
+  - role: Vaktmester
+    time: 2023
+    company: Studentsamskipnaden i Stavanger
+    details: |
+      Sommervikar som vaktmester i SiS Bolig. Sjekking utvask av studentboliger, rydding, feilsøking av sluk, vask og annet teknisk utstyr, osv.
+        - Fysisk arbeid
+        - Sommervikariat
+        - Problemløsning
 
   - role: Valgmedarbeider
     time: 2023
@@ -268,6 +269,10 @@ projects:
   intro: >
     Nedenfor er listen over diverse frivillig arbeid jeg har tilegnet meg.
   assignments:
+
+  - title: Studentrepresentant i Utdanningsutvalget ved UiS
+    tagline: "2024 - d.d."
+    
   - title: Styremedlem i Campus Studentsamfunn (Tappetårnet)
     tagline: "2024 - d.d."
 
@@ -282,6 +287,9 @@ projects:
 
   - title: Delegasjonsleder & delegat til landsmøtet til Norsk Studentorganisasjon (NSO)
     tagline: "2025"
+
+  - title: Emnetillitsvalgt i de fleste emner på bacheloren
+    tagline: "2020 - 2023"
 
   - title: Delegat til landsmøtet til Norsk Studentorganisasjon (NSO)
     tagline: "2023"
@@ -298,14 +306,11 @@ projects:
   - title: Studentrepresentant i Instituttsrådet ved Institutt for medie- og samfunnsfag, UiS
     tagline: "2021 - 2023"
 
-  - title: Studentrepresentant i Studieprogramrådet for Bachelor i Statsvitenskap
-    tagline: "2021 - 2022"
-
   - title: Medlem i valgkomiteen til Universitetet i Stavanger Idrettslag (UiSI)
     tagline: "2022"
 
-  - title: Emnetillitsvalgt i de fleste emner på bacheloren
-    tagline: "2020 - 2023"
+  - title: Studentrepresentant i Studieprogramrådet for Bachelor i Statsvitenskap
+    tagline: "2021 - 2022"
 
   - title: Økonomiansvarlig - Krafttak mot Kreft
     tagline: "2020"
@@ -358,14 +363,15 @@ publications:
   intro: |
     I denne delen finner du mine publikasjoner som forskningsartikler og oppgaver.
   papers:
-  - title: "Bachelor oppgave: Why do some countries become more welfare chauvinistic even though they get richer?"
-    link: "https://www.hdl.handle.net/11250/3082186"
-    authors: Solvig, Knut
 
   - title: "The Urban-Rural Divide in Policy Priorities across Time and Space"
     link: "https://www.researchgate.net/publication/390632822_The_Urban-Rural_Divide_in_Policy_Priorities_across_Time_and_Space"
     authors: Yildirim, Murat T. & Solvig, Knut
     conference: "Political Studies Association 2024, Glasgow Skottland"
+  
+  - title: "Bachelor oppgave: Why do some countries become more welfare chauvinistic even though they get richer?"
+    link: "https://www.hdl.handle.net/11250/3082186"
+    authors: Solvig, Knut
 
 certifications:
   title: Sertifiseringer
@@ -394,4 +400,4 @@ recommendations:
   title: Referanser oppgis ved behov
 
 footer: >
-  Curriculum Vitae - Knut Solvig
+  Curriculum Vitae - Knut Solvig - Curriculum Vitae
