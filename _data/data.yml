@@ -131,6 +131,16 @@ experiences:
         - Lederskap
         - Politisk
         - Strategisk arbeid
+
+      - role: Valgmedarbeider
+    time: 2025
+    company: Stavanger kommune
+    details: |
+      Jeg jobbet som valgmedarbeider, registrerte valgstemmer under stortingsvalget 2025. Telte også stemmene manuelt.
+        - Stressende situasjoner
+        - Ansvar
+        - Lange og varierte arbeidsdager
+        
   - role: Nestleder
     time: 2024 - 2025
     company: Studentorganisasjonen ved UiS (StOr)
@@ -278,17 +288,21 @@ projects:
     Nedenfor er listen over diverse frivillig arbeid jeg har tilegnet meg.
   assignments:
 
+  
+    - title: Frivillig i DNB Arena
+    tagline: "2023 - d.d"
+
+  - title: Studentrepresentant i Læringsmiljøutvalget ved UiS
+    tagline: "2025 - d.d."
+    
   - title: Studentrepresentant i Utdanningsutvalget ved UiS
-    tagline: "2024 - d.d."
+    tagline: "2024 - 2025"
     
   - title: Styremedlem i Campus Studentsamfunn (Tappetårnet)
-    tagline: "2024 - d.d."
-
-  - title: Frivillig i DNB Arena
-    tagline: "2023 - d.d."
+    tagline: "2024 - 2025"
 
   - title: Styremedlem i Velferdstinget i Stavanger
-    tagline: "2021 - d.d."
+    tagline: "2021 - 2025"
 
   - title: Studentrepresentant i komitee for merritert underviser
     tagline: "2025"
@@ -328,6 +342,10 @@ oss:
   intro: >
     Nedenfor er mine offentlige fremtredelser og foredrag. Det kan være alt fra foredrag, taler og medieoppslag.
   contributions:
+
+  - title: "Media: Khrono - 08/09/25"
+    link: "https://www.khrono.no/virkelig-ap/996827"
+    tagline: "Debattartikkel om Arbeiderpartiets ønske om endring av studieavgift for internasjonale studenter." 
 
   - title: "Media: NRK Rogaland sak i Distriktsnyhetene - 11/04/25"
     link: "https://www.linkedin.com/posts/knut-solvig-155182225_sak-i-nrk-i-dag-om-at-flere-studenter-activity-7316553019968397313-ceCx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADhxslEB9nA0eU_mOLOWQu-eqfyzTzKGrk0"
