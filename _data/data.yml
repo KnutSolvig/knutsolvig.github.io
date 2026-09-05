@@ -139,7 +139,7 @@ experiences:
   title: Erfaring
   info:
 
-    - role: Styremedlem i Universitetsstyret
+  - role: Styremedlem i Universitetsstyret
     time: 2026 - d.d.
     company: Universitetet i Stavanger
     details: |
@@ -157,7 +157,7 @@ experiences:
         - Engasjement
         - Idrett
 
-    - role: Kollektivkoordinator
+  - role: Kollektivkoordinator
     time: 2026 - d.d.
     company: Studentsamskipnaden i Stavanger
     details: |
