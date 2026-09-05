@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Knut Solvig
-  tagline: Statsviter og Leder i StOr
+  tagline: Mastersstudent i Samfunssikkerhet
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -54,7 +54,7 @@ sidebar:
     info:
     - item: Løping
     - item: Formel 1
-    - item: Ishockey
+    - item: Fotball
     - item: Friluftsliv
     - item: Cybersikkerhet
     - item: Digitalisering
@@ -67,23 +67,37 @@ sidebar:
 career-profile:
   title: Karriereprofil
   summary: |
-    Jeg er opprinnelig fra Kopervik på Karmøy og gikk etter videregående på Folkehøgskole. Der ble jeg enda mer giret på det å studere videre og bli kjent med enda flere spennende folk. Jeg har fullført en bachelorgrad i Statsvitenskap og tar nå en mastergrad i Digitale Samfunn ved UiS. I løpet av min studietid har jeg vært svært engasjert i universitetsstyret, nestleder i StOr og nå som leder av StOr.
+    Jeg er opprinnelig fra Kopervik på Karmøy og gikk etter videregående på Folkehøgskole. Der ble jeg enda mer giret på det å studere videre og bli kjent med enda flere spennende folk. Jeg har fullført en bachelorgrad i Statsvitenskap. Etter bacheloren startet jeg på en master i Digital Society på UiS, men etter den ble nedlagt byttet jeg master til samfunssikkerhet. I løpet av min studietid har jeg vært svært engasjert i universitetsstyret (2023-2024 og 2026-2027), nestleder i StOr, leder av StOr og i dag som styreleder i UiSI (Studentidrettslaget).
 education:
   title: Utdanning
   info:
+
+    - degree: Master i Samfunnssikkerhet
+    university: Universitetet i Stavanger
+    time: 2026 - d.d.
+    details: |
+      Masterstudie i samfunssikkerhet som har fokus på kriser, krisehåndtering, beredskap og risiko, blant annet. 
+        - E-DAT301 - Cyber Security 🕙
+        - SAM505 - Risiko og samfunnssikkerhet 🕙
+        - SAM515 - Krisehåndtering 🕙
+        - SAM525 - Risiko, Samfunn og Etikk 🕙
+        - RIS660 - Forskningsmetoder innen risiko- og sikkerhetsstudier 🕙
+        - SAM510 - Risikobasert styring 🕙
+        - SAM500 - Digitalisering, infrastruktur og sårbarhet 🕙
+        - SAMMAS - Masteroppgave i Samfunnssikkerhet 🕙
+        
   - degree: Master i Digitale Samfunn og Sosiale Transformasjoner
     university: Universitetet i Stavanger
-    time: 2023 - d.d.
+    time: 2023 - 2026.
     details: |
       Masterstudie i samfunnsvitenskap som fokuserer på hvordan teknologi påvirker samfunnet vårt og ikke minst hvordan diverse teknologier fungerer.
-        - DIGMAS - Masteroppgave 🕐
-        - MEE125 - Philosophy of Science and Research ✅
-        - DIG504 - Digital Culture and Everyday Life ✅
-        - DIG501 - Media, Data and Society ✅
-        - DIG502 - The Digitalization of Politics ✅
-        - DIG503 - Technological Foundations ✅
-        - MEN185 - Applied Social Science Research ✅
-        - DAT105 - Innføring i kunstig intelligens (KI) ✅
+        - MEE125 - Philosophy of Science and Research ✅ (Karakter: A)
+        - DIG504 - Digital Culture and Everyday Life ✅ (Karakter: C)
+        - DIG501 - AI and Society ✅ (Karakter: A)
+        - DIG502 - The Digitalization of Politics ✅ (Karakter: A)
+        - DIG503 - Technological Foundations ✅ (Karakter: A)
+        - MEN185 - Applied Social Science Research ✅ (Karakter: C)
+        - DAT105 - Innføring i kunstig intelligens (KI) ✅ (Karakter: Godkjent)
 
   - degree: Bachelor i Statsvitenskap
     university: Universitetet i Stavanger
@@ -91,20 +105,21 @@ education:
     details: |
       Bachelorgrad i starten av koronapandemien i Statsvitenskap. Hadde en rekke verv i løpet av bacheloren.
         - Karaktersnitt: B
-        - SVEXPHIL - Examen philosophicum ✅
-        - BST115 - Politisk teori ✅
-        - BST120 - Offentlig politikk og administrasjon ✅
-        - BST130 - Internasjonal politikk ✅
-        - BST100 - Makt og politikk ✅
-        - BST290 - Kvantitativ forskningsmetode ✅
-        - BSS120 - Forskningsteori- og metode ✅
-        - BST230 - Kultur og mangfold i politiske prosesser ✅
-        - BST250 - Komparativ politikk ✅
-        - BSS295 - Digital Culture and Society ✅
-        - BYS220 - Kriser og samfunnssikkerhet ✅
-        - BST300 - Velferdsstat- og politikk ✅
-        - BST310 - Organisasjonsteori ✅
-        - BSTPRA - Praksisopphold ✅
+        - SVEXPHIL - Examen philosophicum ✅ (Karakter: C)
+        - BST115 - Politisk teori ✅ (Karakter: C)
+        - BST120 - Offentlig politikk og administrasjon ✅ (Karakter: B)
+        - BST130 - Internasjonal politikk ✅ (Karakter: C)
+        - BST100 - Makt og politikk ✅ (Karakter: B)
+        - BST290 - Kvantitativ forskningsmetode ✅ (Karakter: A)
+        - BSS120 - Forskningsteori- og metode ✅ (Karakter: A)
+        - BST230 - Kultur og mangfold i politiske prosesser ✅ (Karakter: D)
+        - BST250 - Komparativ politikk ✅ (Karakter: A)
+        - BSS295 - Digital Culture and Society ✅ (Karakter: B)
+        - BYS220 - Kriser og samfunnssikkerhet ✅ (Karakter: A)
+        - BST300 - Velferdsstat- og politikk ✅ (Karakter: C)
+        - BST310 - Organisasjonsteori ✅ (Karakter: C)
+        - BSTPRA - Praksisopphold ✅ (Karakter: Godkjent)
+        - BJO203 - Media and communication (Karakter: C)
         - BSTBAC - Bacheloroppgave ✅
 
   - degree: Folkehøgskole
@@ -123,14 +138,14 @@ education:
 experiences:
   title: Erfaring
   info:
-  - role: Leder
-    time: 2025 - d.d.
-    company: Studentorganisasjonen ved UiS (StOr)
+
+    - role: Styremedlem i Universitetsstyret
+    time: 2026 - d.d.
+    company: Universitetet i Stavanger
     details: |
-      Leder av Studentorganisasjonen ved UiS (StOr). Som leder har jeg det overordnede ansvaret for organisasjonen og har personalansvar. Jeg jobber politisk for å få gjennomslag for studentenes saker. StOr jobber for at studentenes rettigheter blir overholdt og at studentene blir hørt over hele institusjonen. StOr består av fire studenter som tar permisjon fra studiene for å jobbe fulltid for studentene og studentparlamentet.
-        - Lederskap
-        - Politisk
-        - Strategisk arbeid
+      Styremedlem i Universitetsstyret til Universitetet i Stavanger. Styret er det øverste organet på institusjonen og vedtar blant annet budsjett og retningen for UiS. Jeg ble valgt av Studentparlamentetet for å representere studentene. 
+        - Stort ansvar
+        - Styrearbeid
 
   - role: Styreleder
     time: 2026 - d.d.
@@ -141,6 +156,23 @@ experiences:
         - Styrearbeid
         - Engasjement
         - Idrett
+
+    - role: Kollektivkoordinator
+    time: 2026 - d.d.
+    company: Studentsamskipnaden i Stavanger
+    details: |
+      Ivaretakelse av et god miljø rundt nye kollektiv i Campushagen studentboliger i Stavanger.
+        - Konflikthåndtering
+        - Koordinering
+        
+  - role: Leder
+    time: 2025 - 2026.
+    company: Studentorganisasjonen ved UiS (StOr)
+    details: |
+      Leder av Studentorganisasjonen ved UiS (StOr). Som leder hadde jeg det overordnede ansvaret for organisasjonen og har personalansvar. Jeg jobber politisk for å få gjennomslag for studentenes saker. StOr jobber for at studentenes rettigheter blir overholdt og at studentene blir hørt over hele institusjonen og samfunnet forøvrig. StOr består av fire studenter som tar permisjon fra studiene for å jobbe fulltid for studentene og studentparlamentet.
+        - Lederskap
+        - Politisk
+        - Strategisk arbeid
 
   - role: Valgmedarbeider
     time: 2025
@@ -300,8 +332,11 @@ projects:
   assignments:
 
 
+  - title: Sanitet- og søk- og redningsmannskap i Norsk Folkehjelp
+    tagline: "2026 - d.d."
+
   - title: Studentrepresentant i Læringsmiljøutvalget ved UiS
-    tagline: "2025 - d.d."
+    tagline: "2025 - 2026"
 
   - title: Delegat på Forbundstinget til Norges Studentidrettsforbund
     tagline: "2026"
